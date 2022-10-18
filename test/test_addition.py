@@ -1,4 +1,4 @@
-from docker_calculator.src.calculator import add
+from src.calculator import add
 import pytest
 def test_add():
     result = add(3, 4)
