@@ -1,6 +1,6 @@
 #multiply
 #test
-#rr
+#remote
 from src.calculator import multiply
 import pytest
 def test_multiply():
